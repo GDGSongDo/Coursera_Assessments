@@ -1,0 +1,5 @@
+# temp or build
+# *.DS_Store
+
+*.idea/
+*.javac
